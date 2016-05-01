@@ -1,8 +1,8 @@
 {
-    "venus" : "0", 
+    "venus" : "1", 
     "versionInfo" : {
         "version" : "3.0.0",
         "updateInfo" : "小伙伴们，新版幹貨出炉啦！点击去AppStore吃了这盘新鲜的干货吧！",
-        "newFunction" : "新增上传功能，快和大家一起分享你心目中的干货吧！"
+        "newFunction" : "修改了上传失败的bug，快和大家一起分享你心目中的干货吧！"
     }
 }
